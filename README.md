@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+# Simple ToDo App created with React
+# You can see the APP in https://todoappbyjlgm.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
